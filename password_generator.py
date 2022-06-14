@@ -15,7 +15,7 @@ number = int(number)
 length = input('How long would you like your password(s) to be? : ')
 length = int(length)
 
-print('\nhere are your passwords:')
+print('\here are your passwords:')
 
 for pwd in range(number):
   password = ''
